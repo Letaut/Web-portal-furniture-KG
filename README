@@ -1,0 +1,14 @@
+1. Установка и запуск Admin: `cd Admin && npm install && npm start`
+2. Установка и запуск Backend: `cd ../Backend && npm install && npm start`
+3. Установка и запуск Frontend: `cd ../Frontend && npm install && npm start`
+
+.env
+MONGODB_URL=
+JWT_SECRET=
+CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
+MAIL_ID=
+MP=
+PAYPAL_CLIENT_ID=
+PAYPAL_SECRET=
